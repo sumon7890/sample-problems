@@ -1,0 +1,27 @@
+.form-group {
+    margin-bottom: 1rem;
+    margin: 100px auto;
+}
+
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 10px;
+}
+
+.form-control {
+    margin-bottom: 1rem;
+    margin: 5px auto;
+}
+
+button.btn.btn-danger {
+    margin-left: 10px;
+    width: 78px;
+    height: 32px;
+    /* line-height: 1px; */
+}
+
+.form-control.col-md-4 {
+    height: 55px;
+    line-height: 31px;
+}
